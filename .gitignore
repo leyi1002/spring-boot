@@ -1,4 +1,4 @@
 target/*
 .idea/*
-#/spring-boot-web/target/*
-#/spring-boot-web/.idea/*
+/spring-boot-web/target/*
+/spring-boot-web/.idea/*
